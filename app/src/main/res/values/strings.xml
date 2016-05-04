@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavigationViewToolBar</string>
+    <string name="dopen">drawerOpened</string>
+    <string name="dclosed">drawer Closed</string>
+    <string name="tooltitle">Interesting</string>
+</resources>

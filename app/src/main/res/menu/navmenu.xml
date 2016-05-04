@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+<item android:title="kannada"
+    android:id="@+id/mkannada"
+    android:icon="@drawable/pyramidal"
+   />
+    <item android:title="Telugu"
+        android:id="@+id/mtelugu"
+        android:icon="@drawable/pyramidal"
+        />
+    <item android:title="Tamil"
+        android:id="@+id/mtamil"
+        android:icon="@drawable/pyramidal"
+        />
+    <item android:title="Malyalam"
+        android:id="@+id/mmalyalam"
+        android:icon="@drawable/pyramidal"
+        />
+
+    </group>
+</menu>
